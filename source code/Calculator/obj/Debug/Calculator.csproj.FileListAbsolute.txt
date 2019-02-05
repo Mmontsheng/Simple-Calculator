@@ -1,0 +1,28 @@
+D:\AFRIGIS\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\AFRIGIS\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\AFRIGIS\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.SplashScreen.resources
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.Random_Numbers.resources
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.RandomNumbersBubbleSort.resources
+D:\AFRIGIS\C#\Calculator\Calculator\obj\Debug\Calculator.Mass_Calculator.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\bin\Debug\Calculator.exe.config
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\bin\Debug\Calculator.exe
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\bin\Debug\Calculator.pdb
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.Form1.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.Mass_Calculator.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.RandomNumbersBubbleSort.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.Random_Numbers.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.SplashScreen.resources
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.exe
+D:\AFRIGIS\C#\mmontsheng maoto\source code\Calculator\obj\Debug\Calculator.pdb
